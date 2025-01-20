@@ -1,4 +1,4 @@
-# FIFA-19-Player-Data-Analysis-with-Tableau
+# FIFA-Player-Analysis-with-Tableau
 
 Welcome to my FIFA 19 Player Data Analysis project! This repository showcases my exploration of the FIFA 19 dataset, which contains detailed information about over 18,000 football players worldwide. Using Tableau, I created interactive dashboards to analyze player performance, market value, and growth potential.
 
